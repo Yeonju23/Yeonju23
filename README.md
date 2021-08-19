@@ -14,7 +14,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeonju23&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonju23)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeonju23&show_icons=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonju23)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yerialju.tistory.com/)](https://yerialju.tistory.com/)
