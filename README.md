@@ -7,9 +7,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
 
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry pi-A22846?style=flat-square&logo=Raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual Studio code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=Spyder ide&logoColor=white"/>
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeonju23&show_icons=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonju23)](https://github.com/anuraghazra/github-readme-stats)
 
 
