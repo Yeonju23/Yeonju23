@@ -7,5 +7,4 @@
 # Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-beeafb?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeonju23&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeonju23&show_icons=true&title_color=f5605c&text_color=0519652&icon_color=f57165)
