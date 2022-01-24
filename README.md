@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff816a&height=230&section=header&text=Yeonju%20Kim&fontSize=70&fontColor=ffffff)
 ### Hi👋 My name is Yeonju
 
-- 🔭 I’m currently working on Smart Health care 
 - 🌱 I’m currently learning Machine learning, Data analysis
 
 # Skills
