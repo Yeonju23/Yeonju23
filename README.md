@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff816a&height=230&section=header&text=Yeonju%20Kim&fontSize=70&fontColor=ffffff)
 
 
-<h3 align="center> 🍑 Yeonju 🍑  </h3>
+ #### 🍑 Yeonju 🍑 
 - 🌱 I’m currently learning Machine learning, Deep learning, Data analysis
 <p align="center">
   <a href="https://velog.io/@yeriel_ju23"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
