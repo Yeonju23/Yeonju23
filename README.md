@@ -3,7 +3,7 @@
 
  #### 🍑 Yeonju 🍑 
 
-<a href="https://velog.io/@yeriel_ju23"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link="https://velog.io/@ju_haze"/> <a href="mailto:kyeonju23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyeonju23@gmail.com"/>
+<a href="https://velog.io/@ju_haze"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ju_haze"/> <a href="mailto:kyeonju23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyeonju23@gmail.com"/>
 
 #### 📝 Tech Stack 📝
 <img src="https://img.shields.io/badge/Python-f5605c?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logo Color=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logo Color=white"/>
