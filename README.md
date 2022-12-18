@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff816a&height=230&section=header&text=Yeonju%20Kim&fontSize=70&fontColor=ffffff)
 
 
- #### 🍑 Yeonju 🍑 
+<!--  #### 🍑 Yeonju 🍑  -->
 
 <!-- <a href="https://velog.io/@ju_haze"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ju_haze"/> <a href="mailto:kyeonju23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyeonju23@gmail.com"/>
 
